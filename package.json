@@ -20,7 +20,7 @@
     "formidable": "^1.2.1",
     "minio": "^7.0.12",
     "morgan": "^1.9.1",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.4",
     "standart": "^6.1.0"
